@@ -1,2 +1,5 @@
 rootProject.name = 'SberbankSchoolHW'
+include 'Task1'
+include 'Task_2'
+include 'Task_1'
 
